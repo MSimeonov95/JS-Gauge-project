@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    background: rgb(34,193,195);
+    
+
+}
+.gauges canvas{
+    height:350px;
+    width:350px;
+
+}
+.acme img{
+    float: right;
+    height: 10em;
+    width: auto;
+}
+h1,p{
+    color: white;
+    display: flex;
+    justify-content: center;
+}
